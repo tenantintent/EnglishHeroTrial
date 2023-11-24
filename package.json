@@ -1,0 +1,12 @@
+{
+    "name": "rmmz-game",
+    "main": "index.html",
+    "chromium-args": "--force-color-profile=srgb",
+    "window": {
+        "title": "English Hero 英語勇者",
+        "width": 1200,
+        "height": 675,
+        "position": "center",
+        "icon": "icon/icon.png"
+    }
+}
