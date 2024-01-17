@@ -3,5 +3,7 @@
 var $plugins =
 [
 {"name":"SVActorPositionMZ","status":true,"description":"[Ver1.1.5]Change actors' position on screen at sideview battle.","parameters":{"actor1 Xpos":"900","actor1 Ypos":"280","actor2 Xpos":"900 + 32","actor2 Ypos":"280 + 48","actor3 Xpos":"900 + 32 * 2","actor3 Ypos":"280 + 48 * 2","actor4 Xpos":"900 + 32 * 3","actor4 Ypos":"280 + 48 * 3"}},
-{"name":"Yanatsuki_BeforeCommon_MZ_edited","status":true,"description":"ver1.01/スキルやアイテムの発動前に、スキルやアイテムに設定されたコモンイベントを発生させます。","parameters":{"IndexVariableID":"51","TargetIndexVariableID":"52","nullNumberCommonReserve":"true"}}
+{"name":"Yanatsuki_BeforeCommon_MZ_edited","status":true,"description":"ver1.01/スキルやアイテムの発動前に、スキルやアイテムに設定されたコモンイベントを発生させます。","parameters":{"IndexVariableID":"51","TargetIndexVariableID":"52","nullNumberCommonReserve":"true"}},
+{"name":"TorigoyaMZ_SameEquipType","status":true,"description":"同じ名前の装備タイプなら同じものを装備できるようにするプラグイン (v.1.0.0)","parameters":{}},
+{"name":"Chimaki_MsgTool","status":false,"description":"one times center msg","parameters":{}}
 ];
