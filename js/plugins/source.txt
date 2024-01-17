@@ -1,0 +1,8 @@
+TorigoyaMZ_SameEquipType.js　——　鳥小屋　様　
+（鳥小屋プラグイン置き場）
+
+BeforeCommon.js　——　Yana　様　
+（X/Twitter: @yanatsuki_）
+
+Chimaki_MsgTool.js　——　Maker製造機　様　
+(https://gitlab.com/mitori10feet/rpgmakermv/-/tree/master?ref_type=heads)
