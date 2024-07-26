@@ -6,3 +6,6 @@ BeforeCommon.js　——　Yana　様　
 
 Chimaki_MsgTool.js　——　Maker製造機　様　
 (https://gitlab.com/mitori10feet/rpgmakermv/-/tree/master?ref_type=heads)
+
+GALV_CamControlMZ　——　Galv　様
+(https://galvs-scripts.com/2020/08/26/mz-cam-control/)
